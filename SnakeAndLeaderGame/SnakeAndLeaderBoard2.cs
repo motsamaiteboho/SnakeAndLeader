@@ -1,17 +1,17 @@
-﻿using System.IO.Pipes;
+using System.IO.Pipes;
 using System.Linq.Expressions;
 using System.Diagnostics;
 using System.Collections;
 namespace SnakeAndLeaderGame;
-public class SnakeAndLeaderBoard
+public class SnakeAndLeaderBoard2
 {
     public int DiceNum = 0;
     public int Position = 0;
     Hashtable Leader = new Hashtable(){ 
-        {1,38}, {4,14}, {8,30},{21,42},{28,76},{50,67},{71,92},{80,99}
+        {9,31}, {16,45}, {18,64},{48,66},{50,93},{63,81}
     };
     Hashtable Snake = new Hashtable(){
-        {36,6},{32,10},{48,26},{62,18},{88,24},{95,56},{97,78}
+        {32,6},{74,22},{86,51},{99,39}
     };
 
 
