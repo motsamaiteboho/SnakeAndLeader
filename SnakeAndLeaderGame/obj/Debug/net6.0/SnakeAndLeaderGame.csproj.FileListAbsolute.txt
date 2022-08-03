@@ -1,0 +1,12 @@
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\bin\Debug\net6.0\SnakeAndLeaderGame.deps.json
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\bin\Debug\net6.0\SnakeAndLeaderGame.dll
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\bin\Debug\net6.0\SnakeAndLeaderGame.pdb
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\SnakeAndLeaderGame.csproj.AssemblyReference.cache
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\SnakeAndLeaderGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\SnakeAndLeaderGame.AssemblyInfoInputs.cache
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\SnakeAndLeaderGame.AssemblyInfo.cs
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\SnakeAndLeaderGame.csproj.CoreCompileInputs.cache
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\SnakeAndLeaderGame.dll
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\refint\SnakeAndLeaderGame.dll
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\SnakeAndLeaderGame.pdb
+c:\Users\Motsa\diprojects\Game\SnakeAndLeaderGame\obj\Debug\net6.0\ref\SnakeAndLeaderGame.dll
